@@ -1,0 +1,21 @@
+{
+  "name": "pixi-dragonbones-runtime-starter",
+  "version": "0.0.0",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "@assetpack/core": "^1.4.0",
+    "@types/node": "^22.9.0",
+    "typescript": "^5.6.3",
+    "vite": "^6.2.0",
+    "vite-plugin-assetpack": "^0.0.2"
+  },
+  "dependencies": {
+    "pixi-dragonbones-runtime": "8.x",
+    "pixi.js": "^8.x"
+  }
+}
