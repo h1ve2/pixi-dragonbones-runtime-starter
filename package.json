@@ -15,7 +15,7 @@
     "vite-plugin-assetpack": "^0.0.2"
   },
   "dependencies": {
-    "pixi-dragonbones-runtime": "8.x",
+    "pixi-dragonbones-runtime": "^8.0.2",
     "pixi.js": "^8.x"
   }
 }
