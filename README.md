@@ -1,7 +1,16 @@
 # pixi-dragonbones-runtime-starter
-This project is [pixi-dragonbones-runtime](https://github.com/h1ve2/pixi-dragonbones-runtime) Example.
+This project is [pixi-dragonbones-runtime](https://github.com/h1ve2/pixi-dragonbones-runtime) (Pixi.js + Vite + Assetpack) Example.
 
-It can also serve as an example for Pixi.js+Vite+Assetpack projects.
+- [Guide](https://h1ve2.github.io/pixi-dragonbones-runtime/guide/)
+- [API](https://h1ve2.github.io/pixi-dragonbones-runtime/api/8.x/)
+- [Online Example](https://h1ve2.github.io/pixi-dragonbones-runtime/guide/#Example)
 
-## preview
+## Preview
 ![pixi-dragonbones-runtime-starter](./preview.gif)
+
+## How to run
+```bash
+yarn install
+yarn run start
+```
+
