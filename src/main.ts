@@ -27,8 +27,11 @@ import manifest from "./manifest.json";
 
     // asset alias or JSON Object
     factory.parseDragonBonesData("preload/starter_ske.json");
-    factory.parseTextureAtlasData("preload/starter_tex.json",
-        "preload/starter_tex.png");
+    factory.parseTextureAtlasData("preload/starter_tex.json");
+
+    // for versions v8.0.2 and earlier, please pass in textureAtlas.
+    // factory.parseTextureAtlasData("preload/starter_tex.json", "preload/starter_tex.png");
+
 
     const armatureDisplay = factory.buildArmatureDisplay("starter");
 
