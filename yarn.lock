@@ -2571,10 +2571,10 @@ pixelmatch@^4.0.2:
   dependencies:
     pngjs "^3.0.0"
 
-pixi-dragonbones-runtime@^8.0.2:
-  version "8.0.2"
-  resolved "https://registry.yarnpkg.com/pixi-dragonbones-runtime/-/pixi-dragonbones-runtime-8.0.2.tgz#7051ee2ac090ea589d110b5dd311fa1a2d15090e"
-  integrity sha512-+QbiDz7Vh6mv4OlQiHhVK4oIT+gKwWlQhzOnpxFNCDS6ysqI7hP+Z0CnBrHKCRzV/aE2wcH41ucJEFZnhKlJwg==
+pixi-dragonbones-runtime@^8.0.3:
+  version "8.0.3"
+  resolved "https://registry.yarnpkg.com/pixi-dragonbones-runtime/-/pixi-dragonbones-runtime-8.0.3.tgz#f7889ca59126cfa4f63520646c148941f85763c4"
+  integrity sha512-BuDo8NsrVoFFza7iH427D+MLsVHTEoFUv/v2wnrhOofILXupAY4bVcqvgCR4HekyQx/eRc82fP7+LGAgf7v8EQ==
 
 pixi.js@^8.x:
   version "8.9.1"
